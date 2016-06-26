@@ -4,7 +4,7 @@ Collect the technology to be used in APT
 It is associated with [APTnotes data](https://github.com/aptnotes/data), [APT & CyberCriminal Campaign Collection](https://github.com/gasgas4/APT_CyberCriminal_Campagin) 
 
 # Reference
-*[Hacking Team](https://github.com/hackedteam?tab=repositories)
+* [Hacking Team](https://github.com/hackedteam?tab=repositories)
 
 ##2016
 * June 21 - [Documenting the Undocumented: Adding CFG Exceptions](http://breakingmalware.com/documentation/documenting-undocumented-adding-control-flow-guard-exceptions/)
