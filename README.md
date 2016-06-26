@@ -17,5 +17,6 @@ It is associated with [APTnotes data](https://github.com/aptnotes/data), [APT & 
 * Nov 9 - [The Apple threat landscape](https://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/apple-threat-landscape.pdf)
 * Sep 30 - [3,000 High-Profile Japanese Sites Hit By Massive Malvertising Campaign](http://blog.trendmicro.com/trendlabs-security-intelligence/3000-high-profile-japanese-sites-hit-by-massive-malvertising-campaign/)
 * Sep 14 - [Large Malvertising Campaign Goes (Almost) Undetected](https://blog.malwarebytes.org/malvertising-2/2015/09/large-malvertising-campaign-goes-almost-undetected/)
+* Aug 26 - [Awakening Dormant Functionality in Malware Programs](http://labs.lastline.com/awakening-dormant-functionality-in-malware-programs)
 * May 26 - [The Teenage Mutant Malvertiser Network](https://www.fireeye.com/blog/threat-research/2015/05/the_teenage_mutantm.html)
 * Mar 24 - [EVOLUTION OF EXPLOIT KITS](https://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-evolution-of-exploit-kits.pdf)
