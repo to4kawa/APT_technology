@@ -7,6 +7,7 @@ It is associated with [APTnotes data](https://github.com/aptnotes/data), [APT & 
 * [Hacking Team](https://github.com/hackedteam?tab=repositories)
 
 ##2016
+* July 8 - [GootKit: Bobbing and Weaving to Avoid Prying Eyes](https://securityintelligence.com/gootkit-bobbing-and-weaving-to-avoid-prying-eyes/)
 * June 21 - [Documenting the Undocumented: Adding CFG Exceptions](http://breakingmalware.com/documentation/documenting-undocumented-adding-control-flow-guard-exceptions/)
 * June 13 - [The New Raa Ransomware is Created Entirely Using Javascript](http://www.bleepingcomputer.com/news/security/the-new-raa-ransomware-is-created-entirely-using-javascript/)
 * Feb 26 - [Blackout - Memory Analysis of BlackEnergy Big dropper](https://malware-unplugged.blogspot.jp/2016/02/blackout-memory-analysis-of-blackenergy.html?view=classic)
