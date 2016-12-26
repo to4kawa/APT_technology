@@ -7,6 +7,7 @@ It is associated with [APTnotes data](https://github.com/aptnotes/data), [APT & 
 * [Hacking Team](https://github.com/hackedteam?tab=repositories)
 
 ##2016
+* Dec 16 - [Log Disabling and Web Shell Redirection](https://www.secureworks.com/blog/log-disabling-and-web-shell-redirection)
 * Aug 25 - [Technical Analysis of Pegasus Spyware](https://info.lookout.com/rs/051-ESQ-475/images/lookout-pegasus-technical-analysis.pdf)
 * July 8 - [GootKit: Bobbing and Weaving to Avoid Prying Eyes](https://securityintelligence.com/gootkit-bobbing-and-weaving-to-avoid-prying-eyes/)
 * June 21 - [Documenting the Undocumented: Adding CFG Exceptions](http://breakingmalware.com/documentation/documenting-undocumented-adding-control-flow-guard-exceptions/)
